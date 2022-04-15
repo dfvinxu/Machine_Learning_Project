@@ -10,7 +10,7 @@
 
 ### Sobre el proyecto
 
-El poryecto se centra en el entrenamiento de un modelo de machine learning para predecir con antelación ataques cerebrovasculares. Para ello, he utilizado el dataset *Stroke Prediction Dataset* publicado en kaggle por [FEDESORIANO] (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
+El poryecto se centra en el entrenamiento de un modelo de machine learning para predecir con antelación ataques cerebrovasculares. Para ello, he utilizado el dataset *Stroke Prediction Dataset* publicado en kaggle por [FEDESORIANO](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
 
  ### Librerias utilizadas
 
